@@ -84,7 +84,7 @@ body {
   background-color: rgb(252, 101, 101);
 }
 .social-media ul li:nth-child(4) a{
-  background-color: rgb(253, 166, 139);
+  background-color: #f1809f;
 }
 .social-media ul li:nth-child(1) a:before {
 	background-color:#3b5999 ; 
@@ -99,7 +99,7 @@ body {
 }
 
 .social-media ul li:nth-child(4) a:before {
-	background-color:#dd4b39 ; 
+	background-color:#ee537d ; 
 }
 
 .social-media ul li:nth-child(5) a:before {
